@@ -32,10 +32,7 @@ const count = ref(0)
     <code>components/HelloWorld.vue</code> to test hot module replacement.
   </p>
 
-  <a-button type='primary'>000000</a-button>
-  <el-row>
-    <el-col :span=""></el-col>
-  </el-row>
+  <a-button type="primary">000000</a-button>
 </template>
 
 <style scoped>
